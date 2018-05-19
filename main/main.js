@@ -1,6 +1,8 @@
 // Write your cade below:
-function main() {};
+function main(expect, given) {
+    if(expect === given) {
+        return '4A0B';
+    }
+};
 
-module.exports = {
-    main
-}
+module.exports = main
