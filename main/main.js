@@ -1,9 +1,5 @@
 // Write your cade below:
 function main(expect, given) {
-    if(expect === given) {
-        return '4A0B';
-    }
-
     let abCount = {
         A: 0,
         B: 0
